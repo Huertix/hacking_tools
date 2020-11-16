@@ -1,5 +1,3 @@
-
-bash-4.2$ cat /tmp/linuxprivchecker.py
 #!/usr/bin/python
 
 """
@@ -649,4 +647,3 @@ if __name__ == '__main__':
 
     print "Finished"
     print bigline
-bash-4.2$ 
